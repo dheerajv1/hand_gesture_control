@@ -5,4 +5,4 @@ pycaw,
 pyautogui, 
 autopy, 
 mediapipe, 
-
+numpy,
